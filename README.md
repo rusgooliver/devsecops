@@ -6,5 +6,4 @@ course_devsecops_2025-2026
 
 Каталоги по темам:
 1. Bash
-2. Python
-3. OS
+
